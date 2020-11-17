@@ -1,0 +1,13 @@
+/* ========= INFORMATION ============================
+	- document:  Side Menu - provide any extra content and functionality with the attention-grabbing side menu!
+	- author:    Wow-Company
+	- profile:   https://wow-estore.com/author/admin/?author_downloads=true
+	- version:   1.0
+	- email:     wow@wow-company.com
+==================================================== */
+.wp-side-menu-item { background-color:#319835; } .wo-icon { color: #ffffff; background-color:#319835; font-size:24px;
+	line-height: 40px !important; width:40px; } .wp-side-menu-item span { color:#ffffff; }  .wp-side-menu-item:hover {background:#319835;} .wp-side-menu-item:hover .wo-icon {background:#319835;} .wp-side-menu-item:hover:before {background-color:#319835;}.wp-side-menu-item a{max-width:none;}
+
+	a.wp-side-menu-item {
+   text-decoration: none;
+}

@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"network","type":"text","title":"Network"},
+    {"name":"serviceType","type":"text","title":"ServiceType"},
+    {"name":"cost","type":"date","title":"Profit"}
+  ]

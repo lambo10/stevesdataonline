@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="22px" viewBox="0 0 26 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>film-icon-hd</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="film-icon-hd" transform="translate(1.000000, 1.000000)">
+            <g id="film-icon" stroke="#FFFFFF" stroke-width="2">
+                <rect id="Rectangle-path" x="0.5" y="0" width="20" height="20" rx="2.18"></rect>
+                <path d="M5.5,0 L5.5,20" id="Shape"></path>
+                <path d="M15.5,0 L15.5,20" id="Shape"></path>
+                <path d="M0.5,10 L20.5,10" id="Shape"></path>
+                <path d="M0.5,5 L5.5,5" id="Shape"></path>
+                <path d="M0.5,15 L5.5,15" id="Shape"></path>
+                <path d="M15.5,15 L20.5,15" id="Shape"></path>
+                <path d="M15.5,5 L20.5,5" id="Shape"></path>
+            </g>
+            <g id="Group-26" transform="translate(12.000000, 9.000000)">
+                <rect id="Rectangle-34" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="13" height="12" rx="3"></rect>
+                <path d="M2.50000001,8.29 L2.50000001,4 L3.47200001,4 L3.47200001,5.752 L5.19400001,5.752 L5.19400001,4 L6.16600001,4 L6.16600001,8.29 L5.19400001,8.29 L5.19400001,6.52 L3.47200001,6.52 L3.47200001,8.29 L2.50000001,8.29 Z M8.05600001,7.534 L8.45200001,7.534 C9.31600001,7.534 9.72400001,7.048 9.72400001,6.16 L9.72400001,6.112 C9.72400001,5.23 9.34600001,4.756 8.44000001,4.756 L8.05600001,4.756 L8.05600001,7.534 Z M7.08400001,8.29 L7.08400001,4 L8.48800001,4 C9.99400001,4 10.738,4.816 10.738,6.1 L10.738,6.148 C10.738,7.432 9.98800001,8.29 8.48200001,8.29 L7.08400001,8.29 Z" id="HD" fill="#4BA330"></path>
+            </g>
+        </g>
+    </g>
+</svg>

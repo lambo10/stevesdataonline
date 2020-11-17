@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"refID","type":"text","title":"RefID"},
+    {"name":"cost","type":"number","title":"Cost"},
+    {"name":"date","type":"date","title":"Date"}
+  ]

@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"network","type":"text","title":"Network"},
+    {"name":"type","type":"text","title":"Plan"},
+    {"name":"cost","type":"number","title":"Cost"}
+  ]

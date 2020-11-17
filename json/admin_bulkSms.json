@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"fromIn","type":"text","title":"from"},
+    {"name":"toIn","type":"text","title":"to"},
+    {"name":"price_per_unitIn","type":"text","title":"price per unit"}
+  ]

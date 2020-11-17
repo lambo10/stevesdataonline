@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"email","type":"text","title":"Email"},
+    {"name":"amount","type":"text","title":"Amount"},
+    {"name":"date","type":"date","title":"Date"}
+  ]

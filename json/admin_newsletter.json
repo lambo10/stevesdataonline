@@ -1,0 +1,5 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"email","type":"text","title":"Email"}
+  ]

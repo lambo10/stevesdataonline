@@ -1,0 +1,7 @@
+
+[
+    {"name":"id","title":"id","visible":false},
+    {"name":"id","type":"text","title":"id"},
+    {"name":"network","type":"text","title":"Network"},
+    {"name":"type","type":"text","title":"Plan"}
+  ]
